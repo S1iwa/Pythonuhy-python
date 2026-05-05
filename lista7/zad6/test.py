@@ -10,7 +10,7 @@ class User:
     def __init__(self, name):
         self.name = name
 
-
-a = add(1,2)
-u = User("Jan")
+if __name__ == "__main__":
+    a = add(1,2)
+    u = User("Jan")
 
